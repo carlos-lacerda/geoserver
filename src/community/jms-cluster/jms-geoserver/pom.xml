@@ -17,7 +17,7 @@
   <name>GeoServer JMS clustering module</name>
 
   <properties>
-    <amq.version>5.9.0</amq.version>
+    <amq.version>5.15.12</amq.version>
   </properties>
 
   <dependencies>
@@ -233,7 +233,7 @@
     <dependency>
       <groupId>org.jasypt</groupId>
       <artifactId>jasypt</artifactId>
-      <version>1.8</version>
+      <version>1.9.2</version>
     </dependency>
 
     <dependency>
